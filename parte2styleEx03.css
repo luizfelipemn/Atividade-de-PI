@@ -1,0 +1,32 @@
+.div_pai{
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.div_filha1{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+}
+.div_filha2{
+    background-color: rgb(255, 50, 0);
+    height: 100px;
+    width: 30%;
+
+}
+.div_filha3
+{
+    background-color: rgb(44, 190, 44);
+    color: white;
+    font-size: 30px;
+    margin: 50px 50px 50px 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+
+
+}
